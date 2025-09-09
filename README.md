@@ -2,7 +2,15 @@
 
 A modern iOS shopping application built with Swift and UIKit that provides a seamless e-commerce experience for browsing and purchasing fashion items.
 
-## 📱 Features
+## � Screenshots
+
+<div align="center">
+  <img src="Shopping-eCommerce/assets/Screenshot 2025-09-10 020023.png" width="250" alt="App Screenshot 1">
+  <img src="Shopping-eCommerce/assets/Screenshot 2025-09-10 020235.png" width="250" alt="App Screenshot 2">
+  <img src="Shopping-eCommerce/assets/Screenshot 2025-09-10 020256.png" width="250" alt="App Screenshot 3">
+</div>
+
+## �📱 Features
 
 - **User Authentication**: Login, registration, and password recovery
 - **Product Browsing**: Browse products by categories (Electronics, Jewelry, Men's/Women's clothing)
